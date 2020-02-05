@@ -9,7 +9,7 @@ Output:
 *********
 ```
 # right-angled_triangle_odd-num.py
-input: 5
+input: Enter a value : 5   
 Output:
 ```                                                                                             
 1                                                                                              
