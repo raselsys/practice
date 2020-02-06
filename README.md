@@ -18,14 +18,8 @@ Output:
 13 15 17 19                                                                                    
 21 23 25 27 29
 ```
-#
-```
-n = int(input('Enter a value:'))
-for r in range (1, n+1):
-    for c in range (1, r+1):
-        print (r*c, end=' ')
-       
-    print()
+# triangle of multiplication 
+
 ```
 Enter a value:9                                                                                
 1                                                                                              
@@ -37,3 +31,4 @@ Enter a value:9
 7 14 21 28 35 42 49                                                                            
 8 16 24 32 40 48 56 64                                                                         
 9 18 27 36 45 54 63 72 81
+```
