@@ -32,3 +32,15 @@ Enter a value:9
 8 16 24 32 40 48 56 64                                                                         
 9 18 27 36 45 54 63 72 81
 ```
+binary_right-angle_triangle_mirror
+
+```
+Enter num of Row you want:7                                                                                                                                                        
+O                         O                                                                                                                                                        
+O 1                     1 O                                                                                                                                                        
+O 1 O                 O 1 O                                                                                                                                                        
+O 1 O 1             1 O 1 O                                                                                                                                                        
+O 1 O 1 O         O 1 O 1 O                                                                                                                                                        
+O 1 O 1 O 1     1 O 1 O 1 O                                                                                                                                                        
+O 1 O 1 O 1 O O 1 O 1 O 1 O
+```
